@@ -1,0 +1,6 @@
+Link for data set :  http://yann.lecun.com/exdb/mnist/
+
+reference : https://github.com/UpasanaGhosh/UB-CSE-555-Pattern-Recognition/blob/master/Bayesian%20Decision%20Theory%20and%20Fisher%20Digits/Assignment1_Code.ipynb
+
+
+someRandomBuffer.read(5)  // This will read the starting 5 Bytes(something) from the stream , again if we write someRandomBuffer.read(5)  it will read the next 5 bytes
